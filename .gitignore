@@ -9,6 +9,12 @@ __pycache__/
 *.csv
 .ipynb_checkpoints/
 
+# Ignore the large raw dataset
+Wednesday-workingHours.pcap_ISCX.csv
+
+# Ignore the cleaned dataset
+cleaned_wednesday.csv
+
 # Distribution / packaging
 .Python
 build/
